@@ -33,7 +33,6 @@ A browser extension which redirects unprivate search engine searches to a privat
   <a href="https://yumi.to" rel="nofollow"><img src="https://yumi.to/assets/github-icons/website.png" alt="website" style="max-width:100%;"></a>
   <a href="mailto:me@yumiizumi.com"><img src="https://yumi.to/assets/github-icons/protonmail.png" alt="email" style="max-width:100%;"></a>
   <a href="https://twitter.com/aapl_yumi" rel="nofollow"><img src="https://yumi.to/assets/github-icons/twitter.png"alt="twitter" style="max-width:100%;"></a>
-  <a href="https://www.linkedin.com/in/yumi-izumi-7b5169200/" rel="nofollow"><img src="https://yumi.to/assets/github-icons/linkedin.png" alt="linkedin" style="max-width:100%;"></a>
   <a href="https://keybase.io/aapl_yumi" rel="nofollow"><img src="https://yumi.to/assets/github-icons/keybase.png" alt="linkedin" style="max-width:100%;"></a>
   <a href="https://codeberg.org/yumi" rel="nofollow"><img src="https://codeberg.org/Codeberg/Design/raw/branch/master/logo-kit/icon.svg" height="96px" width="96px" alt="linkedin" style="max-width:100%;"></a>
   <a href="https://www.reddit.com/user/aapl-yumi" rel="nofollow"><img src="https://yumi.to/assets/github-icons/reddit.png" alt="linkedin" style="max-width:100%;"></a>
