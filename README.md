@@ -8,7 +8,7 @@ I'm Yumi Izumi. I want to make privacy an actual human right.
 
 [![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aapl-yumi&show_icons=true&theme=vision-friendly-dark)](https://github.com/aapl-yumi)
 
-<a href="https://quine.sh/profile/aapl-yumi"><img src="https://stats.quine.sh/aapl-yumi/github" alt="aapl-yumi's GitHub stats" width="840px"></a>
+<a href="https://quine.sh/profile/aapl-yumi"><img src="https://stats.quine.sh/aapl-yumi/github?simple=true" alt="aapl-yumi's GitHub stats" width="840px"></a>
 
 ## Projects I'm working on currently
 
@@ -24,10 +24,6 @@ An E2EE chat app.
 #### [Privacy Blue](https://privacy.blue)
 
 The history database purely from the perspective of privacy in the form of a timeline.
-
-#### [Blue Privacy Extension](https://github.com/bluelockorg/Blue-Privacy-Extension)
-
-A browser extension which redirects unprivate search engine searches to a private and does more.
 
 #### [Subscription Manager](https://github.com/bluelockorg/subscription-manager)
 
