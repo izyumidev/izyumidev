@@ -8,18 +8,12 @@ I'm Yumi Izumi. I want to make privacy an actual human right.
 
 [![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aapl-yumi&show_icons=true&theme=vision-friendly-dark)](https://github.com/aapl-yumi)
 
-<a href="https://quine.sh/profile/aapl-yumi"><img src="https://stats.quine.sh/aapl-yumi/github?simple=true" alt="aapl-yumi's GitHub stats" width="840px"></a>
-
 ## Projects I'm working on currently
 
 ### [Bluelock Org](https://bluelock.org)
 
 ![Bluelock Org Logo](https://yumi.to/assets/github-icons/horizontal.png)
 A NPO I founded for developing privacy protecting tools and sharing privacy ideas.
-
-#### [Blue Chat](https://bluelock.org/chat)
-
-An E2EE chat app.
 
 #### [Privacy Blue](https://privacy.blue)
 
