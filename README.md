@@ -2,26 +2,20 @@
 
 ## About me
 
-I'm Yumi Izumi. I want to make privacy an actual human right.
+I'm Yumi Izumi. I want to make privacy an actual human right. Always looking for interesting ideas to solve issues with technology :)
 
-## GitHub Stats
+Learning Rust personally and studying Cybersecurity at Penn State.
+
+Some programming stuff I'm confident with: TypeScript (and JS), Astro, React, Ionic, HTML/CSS, SQL, Git, and Java.
 
 [![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aapl-yumi&show_icons=true&theme=vision-friendly-dark)](https://github.com/aapl-yumi)
 
 ## Projects I'm working on currently
 
-### [Bluelock Org](https://bluelock.org)
+### [One Kiji](https://onekiji.com)
 
-![Bluelock Org Logo](https://yumi.to/assets/github-icons/horizontal.png)
-A NPO I founded for developing privacy protecting tools and sharing privacy ideas.
-
-#### [Privacy Blue](https://privacy.blue)
-
-The history database purely from the perspective of privacy in the form of a timeline.
-
-#### [Subscription Manager](https://github.com/bluelockorg/subscription-manager)
-
-A simple on device subscription manager app.
+![One Kiji](https://onekiji.com/placeholder-social.png)
+A way to read important news daily, without distraction. Working with [@yutatokoi](https://github.com/yutatokoi)
 
 ## Links
 
