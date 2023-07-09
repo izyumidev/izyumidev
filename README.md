@@ -8,8 +8,6 @@ Learning Rust personally and studying Cybersecurity at Penn State.
 
 Some programming stuff I'm confident with: TypeScript (and JS), Astro, React, Ionic, HTML/CSS, SQL, Git, and Java.
 
-[![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aapl-yumi&show_icons=true&theme=vision-friendly-dark)](https://github.com/aapl-yumi)
-
 ## Projects I'm working on currently
 
 ### [One Kiji](https://onekiji.com)
