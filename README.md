@@ -10,9 +10,9 @@ Some programming stuff I'm confident with: TypeScript (and JS), Astro, React, Io
 
 ## Projects I'm working on currently
 
-### [One Kiji](https://onekiji.com)
+### One Kiji
 
-![One Kiji](https://onekiji.com/placeholder-social.png)
+[![One Kiji](https://onekiji.com/placeholder-social.png)](https://onekiji.com)
 A way to read important news daily, without distraction. Working with [@yutatokoi](https://github.com/yutatokoi)
 
 ## Links
