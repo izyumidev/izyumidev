@@ -6,7 +6,7 @@ I'm Yumi Izumi. I want to make privacy an actual human right. Always looking for
 
 Learning Rust personally and studying Cybersecurity at Penn State.
 
-Some programming stuff I'm confident with: TypeScript (and JS), Astro, React, Ionic, HTML/CSS, SQL, Git, and Java.
+Some programming stuff I'm confident with: TypeScript (and JS), Astro, React, Rust, Swift, Ionic, HTML/CSS, SQL, Git, and Java.
 
 ## Projects I'm working on currently
 
