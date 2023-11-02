@@ -1,4 +1,4 @@
-# Yumi Izum
+# Yumi Izumi
 
 I'm Yumi Izumi a self-taught programmer, and want to make privacy an actual human right. Always looking for interesting ideas to solve issues with technology :)
 
