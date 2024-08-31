@@ -1,11 +1,7 @@
-Hi, I'm Yumi Izumi. A self-taught programmer, studying cybersecurity at Penn
-State, advocating to make privacy an actual human right.
+Hi, I'm Yumi Izumi, a Cybersecurity student at The Pennsylvania State University.
 
-I'm always looking for interesting ideas to solve issues with technology :)
+I am confident with Rust, TypeScript, JavaScript, React, Astro, Swift, HTML/CSS, Git, SQL, Java, and more.
 
 My website: [yumiizumi.com](https://yumiizumi.com)
-
-Some programming stuff I'm confident with: TypeScript (and JS), Astro, React,
-Rust, Swift, Ionic, HTML/CSS, SQL, Git, and Java.
 
 Find my contact details here: [yumi.to/card](https://yumi.to/card)
