@@ -1,7 +1,7 @@
-# Yumi Izumi
+# Yumi
 
 ## About me
-Hi, I'm Yumi Izumi, a Cybersecurity Analytics and Operations graduate from The Pennsylvania State University (completed the program four-semesters early).
+Hi, I'm Yumi.
 
 I am confident with Rust, TypeScript, JavaScript, React, Astro, Swift, HTML/CSS, Git, SQL, Java, and Python.
 
